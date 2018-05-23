@@ -1,0 +1,5 @@
+xmltodict
+openpyxl
+numpy
+matplotlib
+sphinx
